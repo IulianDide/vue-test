@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="231px" viewBox="0 0 139 231" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>🍓Atom/Logo/Bildmarke/Red</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.926 138.044 0.926 138.044 231 0 231"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="🍓Atom/Logo/Bildmarke/Red">
+            <g id="FA_Logo-BM_L_RGB">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polyline id="Fill-1" fill="#E6001E" mask="url(#mask-2)" points="92.03 46.941 138.045 0.926 46.014 0.926 0 46.941 0 92.955 46.014 92.955 46.014 46.941 92.03 46.941"></polyline>
+                <polyline id="Fill-3" fill="#E6001E" mask="url(#mask-2)" points="46.014 92.955 0 138.97 0 231 46.014 184.985 46.014 138.97 92.03 138.97 138.045 92.955 46.014 92.955"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
